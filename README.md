@@ -22,6 +22,5 @@ This project detects and tracks **players, referees, and footballs** in a video 
 
 ## ⚙️ Setup
 ```bash
-git clone https://github.com/yourusername/football-tracking-yolo.git
-cd football-tracking-yolo
-pip install -r requirements.txt
+git clone https://github.com/mahshar-yahan/Football-Analysis-uisng-Yolo.git
+cd Football-Analysis-uisng-Yolo
